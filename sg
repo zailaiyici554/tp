@@ -1,4 +1,4 @@
-Singapore 1 = ss, zsg1.capoonetwork.com, 28415, encrypt-method=aes-256-gcm, password=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, udp-relay=true, tfo=true
-Singapore 2 = ss, zsg2.capoonetwork.com, 23571, encrypt-method=aes-256-gcm, password=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, udp-relay=true, tfo=true
-Singapore 3 = ss, zsg3.capoonetwork.com, 25227, encrypt-method=aes-256-gcm, password=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, udp-relay=true, tfo=true
-Singapore 4 = vmess, presg.capoonetwork.com, 22257, username=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, vmess-aead=true, tfo=true
+新加坡 01 = ss, zsg1.capoonetwork.com, 28415, encrypt-method=aes-256-gcm, password=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, udp-relay=true, tfo=true
+新加坡 02 = ss, zsg2.capoonetwork.com, 23571, encrypt-method=aes-256-gcm, password=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, udp-relay=true, tfo=true
+新加坡 03 = ss, zsg3.capoonetwork.com, 25227, encrypt-method=aes-256-gcm, password=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, udp-relay=true, tfo=true
+新加坡 04 = vmess, presg.capoonetwork.com, 22257, username=95de9eb1-ed54-49e5-a6ea-3dc474c0925b, vmess-aead=true, tfo=true
